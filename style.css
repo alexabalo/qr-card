@@ -72,5 +72,10 @@ p{
         margin: 20px;
         font-size: 1.3rem;
     }
+
+    .container{
+        background-color: #fff;
+        width: 28%;
+       }
 }
 
